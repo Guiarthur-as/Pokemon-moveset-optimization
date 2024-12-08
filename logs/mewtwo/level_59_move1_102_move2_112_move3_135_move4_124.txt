@@ -1,0 +1,228 @@
+---Turn 1---
+move 0
+move 0
+poke 1 level: 59
+poke 1 HP: 212
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 132
+[(115920.66613332643, (move action)), (116057.42876763135, (move action))]
+modifier crit: 1
+modifier rng: 0.8749334003585825
+modifier stab: 0.8749334003585825
+target types: ['Ground', 'Rock']
+type_effect: 2
+type_modifier: 2
+type_effect: 1
+type_modifier: 2
+modifier type: 1.749866800717165
+modifier weather: 1.749866800717165
+modifier burn: 1.749866800717165
+modifier minimize: 1.749866800717165
+modifier abilities: 1.749866800717165
+modifier items: 1.749866800717165
+mewtwo did 461 damage to rhyhorn
+rhyhorn fainted
+mewtwo used blizzard
+---End of Turn 1---
+---Turn 1.5---
+pass 0
+switch 4
+poke 1 level: 59
+poke 1 HP: 212
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 0
+[(25057.587128421834, (switch action))]
+rhyhorn switches out for rhydon
+---End of Turn 1.5---
+---Turn 2---
+move 0
+move 0
+poke 1 level: 59
+poke 1 HP: 212
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 50
+poke 2 HP: 180
+[(115920.40793755917, (move action)), (116036.53948078319, (move action))]
+modifier crit: 1
+modifier rng: 0.9680432257780929
+modifier stab: 0.9680432257780929
+target types: ['Ground', 'Rock']
+type_effect: 2
+type_modifier: 2
+type_effect: 1
+type_modifier: 2
+modifier type: 1.9360864515561858
+modifier weather: 1.9360864515561858
+modifier burn: 1.9360864515561858
+modifier minimize: 1.9360864515561858
+modifier abilities: 1.9360864515561858
+modifier items: 1.9360864515561858
+mewtwo did 338 damage to rhydon
+rhydon fainted
+mewtwo used blizzard
+---End of Turn 2---
+---Turn 2.5---
+pass 0
+switch 3
+poke 1 level: 59
+poke 1 HP: 212
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 50
+poke 2 HP: 0
+[(25036.621760995095, (switch action))]
+rhydon switches out for nidoking
+---End of Turn 2.5---
+---Turn 3---
+move 2
+move 1
+poke 1 level: 59
+poke 1 HP: 212
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 141
+[(116001.54082286789, (move action)), (180920.22050773655, (move action))]
+modifier crit: 1
+modifier rng: 0.88714678007158
+modifier stab: 1.3307201701073699
+target types: ['Psychic']
+type_effect: 1
+type_modifier: 1
+modifier type: 1.3307201701073699
+modifier weather: 1.3307201701073699
+modifier burn: 1.3307201701073699
+modifier minimize: 1.3307201701073699
+modifier abilities: 1.3307201701073699
+modifier items: 1.3307201701073699
+nidoking did 9 damage to mewtwo
+nidoking used poisonsting
+modifier crit: 1
+modifier rng: 0.8671180444799408
+modifier stab: 0.8671180444799408
+target types: ['Poison', 'Ground']
+type_effect: 0.5
+type_modifier: 0.5
+type_effect: 1
+type_modifier: 0.5
+modifier type: 0.4335590222399704
+modifier weather: 0.4335590222399704
+modifier burn: 0.4335590222399704
+modifier minimize: 0.4335590222399704
+modifier abilities: 0.4335590222399704
+modifier items: 0.4335590222399704
+mewtwo did 0 damage to nidoking
+mewtwo used counter
+---End of Turn 3---
+---Turn 4---
+move 0
+move 1
+poke 1 level: 59
+poke 1 HP: 203
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 141
+[(115920.49101461432, (move action)), (116001.88974143569, (move action))]
+modifier crit: 1
+modifier rng: 0.9103872659349369
+modifier stab: 0.9103872659349369
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 2
+type_modifier: 2
+modifier type: 1.8207745318698738
+modifier weather: 1.8207745318698738
+modifier burn: 1.8207745318698738
+modifier minimize: 1.8207745318698738
+modifier abilities: 1.8207745318698738
+modifier items: 1.8207745318698738
+mewtwo did 242 damage to nidoking
+nidoking fainted
+mewtwo used blizzard
+---End of Turn 4---
+---Turn 4.5---
+pass 0
+switch 2
+poke 1 level: 59
+poke 1 HP: 203
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 0
+[(25001.873933895466, (switch action))]
+nidoking switches out for nidoqueen
+---End of Turn 4.5---
+---Turn 5---
+move 0
+move 1
+poke 1 level: 59
+poke 1 HP: 203
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 44
+poke 2 HP: 146
+[(115920.6023247161, (move action)), (116011.0949168367, (move action))]
+modifier crit: 1
+modifier rng: 0.9928894097226086
+modifier stab: 0.9928894097226086
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 2
+type_modifier: 2
+modifier type: 1.9857788194452173
+modifier weather: 1.9857788194452173
+modifier burn: 1.9857788194452173
+modifier minimize: 1.9857788194452173
+modifier abilities: 1.9857788194452173
+modifier items: 1.9857788194452173
+mewtwo did 244 damage to nidoqueen
+nidoqueen fainted
+mewtwo used blizzard
+---End of Turn 5---
+---Turn 5.5---
+pass 0
+switch 1
+poke 1 level: 59
+poke 1 HP: 203
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 44
+poke 2 HP: 0
+[(25011.692855592108, (switch action))]
+nidoqueen switches out for dugtrio
+---End of Turn 5.5---
+---Turn 6---
+move 0
+move 2
+poke 1 level: 59
+poke 1 HP: 203
+poke 1 Stats(hp=212, attack=153, defense=129, specialattack=205, specialdefense=129, speed=176)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 94
+[(115920.05500028998, (move action)), (115978.54824021233, (move action))]
+modifier crit: 1
+modifier rng: 0.9447258932932469
+modifier stab: 0.9447258932932469
+target types: ['Ground']
+type_effect: 2
+type_modifier: 2
+modifier type: 1.8894517865864937
+modifier weather: 1.8894517865864937
+modifier burn: 1.8894517865864937
+modifier minimize: 1.8894517865864937
+modifier abilities: 1.8894517865864937
+modifier items: 1.8894517865864937
+mewtwo did 283 damage to dugtrio
+dugtrio fainted
+mewtwo used blizzard
+p1 won
+---End of Turn 6---

@@ -1,0 +1,376 @@
+---Turn 1---
+move 3
+move 2
+poke 1 level: 41
+poke 1 HP: 150
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 132
+[(115972.77504339589, (move action)), (116057.14341128015, (move action))]
+modifier crit: 1
+modifier rng: 0.9237719644972212
+modifier stab: 0.9237719644972212
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 2
+type_modifier: 2
+modifier type: 1.8475439289944424
+modifier weather: 1.8475439289944424
+modifier burn: 1.8475439289944424
+modifier minimize: 1.8475439289944424
+modifier abilities: 1.8475439289944424
+modifier items: 1.8475439289944424
+mewtwo did 75 damage to rhyhorn
+mewtwo used earthquake
+modifier crit: 1.5
+modifier rng: 1.2833710326652805
+modifier stab: 1.2833710326652805
+target types: ['Psychic']
+type_effect: 1
+type_modifier: 1
+modifier type: 1.2833710326652805
+modifier weather: 1.2833710326652805
+modifier burn: 1.2833710326652805
+modifier minimize: 1.2833710326652805
+modifier abilities: 1.2833710326652805
+modifier items: 1.2833710326652805
+rhyhorn did 42 damage to mewtwo
+rhyhorn used takedown
+---End of Turn 1---
+---Turn 2---
+move 1
+move 2
+poke 1 level: 41
+poke 1 HP: 108
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 47
+[(115972.15486276514, (move action)), (116057.93696015008, (move action))]
+modifier crit: 1
+modifier rng: 0.8809954857580606
+modifier stab: 0.8809954857580606
+target types: ['Ground', 'Rock']
+type_effect: 2
+type_modifier: 2
+type_effect: 1
+type_modifier: 2
+modifier type: 1.7619909715161213
+modifier weather: 1.7619909715161213
+modifier burn: 1.7619909715161213
+modifier minimize: 1.7619909715161213
+modifier abilities: 1.7619909715161213
+modifier items: 1.7619909715161213
+mewtwo did 192 damage to rhyhorn
+rhyhorn fainted
+mewtwo used icebeam
+---End of Turn 2---
+---Turn 2.5---
+pass 0
+switch 4
+poke 1 level: 41
+poke 1 HP: 108
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 0
+[(25057.042762587334, (switch action))]
+rhyhorn switches out for rhydon
+---End of Turn 2.5---
+---Turn 3---
+move 1
+move 1
+poke 1 level: 41
+poke 1 HP: 108
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 50
+poke 2 HP: 180
+[(115972.423192107, (move action)), (116036.16631778103, (move action))]
+modifier crit: 1.5
+modifier rng: 1.443265203591296
+modifier stab: 1.443265203591296
+target types: ['Ground', 'Rock']
+type_effect: 2
+type_modifier: 2
+type_effect: 1
+type_modifier: 2
+modifier type: 2.886530407182592
+modifier weather: 2.886530407182592
+modifier burn: 2.886530407182592
+modifier minimize: 2.886530407182592
+modifier abilities: 2.886530407182592
+modifier items: 2.886530407182592
+mewtwo did 210 damage to rhydon
+rhydon fainted
+mewtwo used icebeam
+---End of Turn 3---
+---Turn 3.5---
+pass 0
+switch 3
+poke 1 level: 41
+poke 1 HP: 108
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 50
+poke 2 HP: 0
+[(25036.030882929914, (switch action))]
+rhydon switches out for nidoking
+---End of Turn 3.5---
+---Turn 4---
+move 1
+move 3
+poke 1 level: 41
+poke 1 HP: 108
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 141
+[(115972.33757739814, (move action)), (116001.70061315136, (move action))]
+modifier crit: 1
+modifier rng: 0.9413787094121269
+modifier stab: 0.9413787094121269
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 2
+type_modifier: 2
+modifier type: 1.8827574188242537
+modifier weather: 1.8827574188242537
+modifier burn: 1.8827574188242537
+modifier minimize: 1.8827574188242537
+modifier abilities: 1.8827574188242537
+modifier items: 1.8827574188242537
+mewtwo did 103 damage to nidoking
+mewtwo used icebeam
+modifier crit: 1
+modifier rng: 0.994906953350946
+modifier stab: 0.994906953350946
+target types: ['Psychic']
+type_effect: 0.5
+type_modifier: 0.5
+modifier type: 0.497453476675473
+modifier weather: 0.497453476675473
+modifier burn: 0.497453476675473
+modifier minimize: 0.497453476675473
+modifier abilities: 0.497453476675473
+modifier items: 0.497453476675473
+nidoking did 7 damage to mewtwo
+modifier crit: 1
+modifier rng: 0.9954724347627546
+modifier stab: 0.9954724347627546
+target types: ['Psychic']
+type_effect: 0.5
+type_modifier: 0.5
+modifier type: 0.4977362173813773
+modifier weather: 0.4977362173813773
+modifier burn: 0.4977362173813773
+modifier minimize: 0.4977362173813773
+modifier abilities: 0.4977362173813773
+modifier items: 0.4977362173813773
+nidoking did 7 damage to mewtwo
+nidoking used doublekick
+---End of Turn 4---
+---Turn 5---
+move 0
+move 2
+poke 1 level: 41
+poke 1 HP: 94
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 38
+[(63972.81516218867, (move action)), (116001.11403647438, (move action))]
+mewtwo did 0 damage to nidoking
+mewtwo used protect
+nidoking used earthquake and missed
+---End of Turn 5---
+---Turn 6---
+move 1
+move 0
+poke 1 level: 41
+poke 1 HP: 94
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 38
+[(115972.70291919739, (move action)), (116001.59782940264, (move action))]
+modifier crit: 1
+modifier rng: 0.8828239222733146
+modifier stab: 0.8828239222733146
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 2
+type_modifier: 2
+modifier type: 1.7656478445466293
+modifier weather: 1.7656478445466293
+modifier burn: 1.7656478445466293
+modifier minimize: 1.7656478445466293
+modifier abilities: 1.7656478445466293
+modifier items: 1.7656478445466293
+mewtwo did 97 damage to nidoking
+nidoking fainted
+mewtwo used icebeam
+---End of Turn 6---
+---Turn 6.5---
+pass 0
+switch 2
+poke 1 level: 41
+poke 1 HP: 94
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 0
+[(25001.6740494286, (switch action))]
+nidoking switches out for nidoqueen
+---End of Turn 6.5---
+---Turn 7---
+move 1
+move 1
+poke 1 level: 41
+poke 1 HP: 94
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 44
+poke 2 HP: 146
+[(115972.9709307337, (move action)), (116011.61700867047, (move action))]
+modifier crit: 1
+modifier rng: 0.8651012222140539
+modifier stab: 0.8651012222140539
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 2
+type_modifier: 2
+modifier type: 1.7302024444281079
+modifier weather: 1.7302024444281079
+modifier burn: 1.7302024444281079
+modifier minimize: 1.7302024444281079
+modifier abilities: 1.7302024444281079
+modifier items: 1.7302024444281079
+mewtwo did 88 damage to nidoqueen
+mewtwo used icebeam
+modifier crit: 1
+modifier rng: 0.8671357500012422
+modifier stab: 1.3007036250018633
+target types: ['Psychic']
+type_effect: 1
+type_modifier: 1
+modifier type: 1.3007036250018633
+modifier weather: 1.3007036250018633
+modifier burn: 1.3007036250018633
+modifier minimize: 1.3007036250018633
+modifier abilities: 1.3007036250018633
+modifier items: 1.3007036250018633
+nidoqueen did 10 damage to mewtwo
+nidoqueen used poisonsting
+---End of Turn 7---
+---Turn 8---
+move 3
+move 0
+poke 1 level: 41
+poke 1 HP: 84
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 44
+poke 2 HP: 58
+[(115972.53239200849, (move action)), (116011.50041689113, (move action))]
+modifier crit: 1
+modifier rng: 0.8546393626754333
+modifier stab: 0.8546393626754333
+target types: ['Poison', 'Ground']
+type_effect: 2
+type_modifier: 2
+type_effect: 1
+type_modifier: 2
+modifier type: 1.7092787253508666
+modifier weather: 1.7092787253508666
+modifier burn: 1.7092787253508666
+modifier minimize: 1.7092787253508666
+modifier abilities: 1.7092787253508666
+modifier items: 1.7092787253508666
+mewtwo did 71 damage to nidoqueen
+nidoqueen fainted
+mewtwo used earthquake
+---End of Turn 8---
+---Turn 8.5---
+pass 0
+switch 1
+poke 1 level: 41
+poke 1 HP: 84
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 44
+poke 2 HP: 0
+[(25011.909417427178, (switch action))]
+nidoqueen switches out for dugtrio
+---End of Turn 8.5---
+---Turn 9---
+move 3
+move 3
+poke 1 level: 41
+poke 1 HP: 84
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 94
+[(115972.2740705225, (move action)), (115978.64151385486, (move action))]
+modifier crit: 1
+modifier rng: 0.9922291295729682
+modifier stab: 0.9922291295729682
+target types: ['Ground']
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9922291295729682
+modifier weather: 0.9922291295729682
+modifier burn: 0.9922291295729682
+modifier minimize: 0.9922291295729682
+modifier abilities: 0.9922291295729682
+modifier items: 0.9922291295729682
+mewtwo did 65 damage to dugtrio
+mewtwo used earthquake
+modifier crit: 1
+modifier rng: 0.925881519713297
+modifier stab: 1.3888222795699456
+target types: ['Psychic']
+type_effect: 1
+type_modifier: 1
+modifier type: 1.3888222795699456
+modifier weather: 1.3888222795699456
+modifier burn: 1.3888222795699456
+modifier minimize: 1.3888222795699456
+modifier abilities: 1.3888222795699456
+modifier items: 1.3888222795699456
+dugtrio did 58 damage to mewtwo
+dugtrio used earthquake
+---End of Turn 9---
+---Turn 10---
+move 2
+move 3
+poke 1 level: 41
+poke 1 HP: 26
+poke 1 Stats(hp=150, attack=107, defense=91, specialattack=143, specialdefense=91, speed=124)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 29
+[(115972.7719299708, (move action)), (115978.94337075023, (move action))]
+modifier crit: 1
+modifier rng: 0.8985806882465945
+modifier stab: 0.8985806882465945
+target types: ['Ground']
+type_effect: 1
+type_modifier: 1
+modifier type: 0.8985806882465945
+modifier weather: 0.8985806882465945
+modifier burn: 0.8985806882465945
+modifier minimize: 0.8985806882465945
+modifier abilities: 0.8985806882465945
+modifier items: 0.8985806882465945
+mewtwo did 37 damage to dugtrio
+dugtrio fainted
+mewtwo used swift
+p1 won
+---End of Turn 10---

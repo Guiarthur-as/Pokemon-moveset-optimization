@@ -1,0 +1,450 @@
+---Turn 1---
+move 1
+move 2
+poke 1 level: 48
+poke 1 HP: 145
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 132
+[(115973.406236984, (move action)), (116057.1741065209, (move action))]
+infernape did 0 damage to rhyhorn
+infernape used bulkup
+rhyhorn used takedown and missed
+---End of Turn 1---
+---Turn 2---
+move 1
+move 2
+poke 1 level: 48
+poke 1 HP: 145
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 1, 'def': 1, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 132
+[(115973.64106812596, (move action)), (116057.33107858425, (move action))]
+infernape did 0 damage to rhyhorn
+infernape used bulkup
+rhyhorn used takedown and missed
+---End of Turn 2---
+---Turn 3---
+move 0
+move 2
+poke 1 level: 48
+poke 1 HP: 145
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 2, 'def': 2, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 132
+[(115973.22692225216, (move action)), (116057.10667077206, (move action))]
+modifier crit: 1
+modifier rng: 0.8888826636928896
+modifier stab: 1.3333239955393343
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 2
+type_modifier: 2
+modifier type: 2.6666479910786687
+modifier weather: 2.6666479910786687
+modifier burn: 2.6666479910786687
+modifier minimize: 2.6666479910786687
+modifier abilities: 2.6666479910786687
+modifier items: 2.6666479910786687
+infernape did 333 damage to rhyhorn
+rhyhorn fainted
+infernape used closecombat
+---End of Turn 3---
+---Turn 3.5---
+pass 0
+switch 4
+poke 1 level: 48
+poke 1 HP: 145
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 2, 'def': 1, 'spa': 0, 'spd': -1, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 0
+[(25057.751362840492, (switch action))]
+rhyhorn switches out for rhydon
+---End of Turn 3.5---
+---Turn 4---
+move 0
+move 1
+poke 1 level: 48
+poke 1 HP: 145
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 2, 'def': 1, 'spa': 0, 'spd': -1, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 50
+poke 2 HP: 180
+[(115973.19083776283, (move action)), (116036.53549347006, (move action))]
+modifier crit: 1
+modifier rng: 0.946874658494387
+modifier stab: 1.4203119877415804
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 2
+type_modifier: 2
+modifier type: 2.840623975483161
+modifier weather: 2.840623975483161
+modifier burn: 2.840623975483161
+modifier minimize: 2.840623975483161
+modifier abilities: 2.840623975483161
+modifier items: 2.840623975483161
+infernape did 247 damage to rhydon
+rhydon fainted
+infernape used closecombat
+---End of Turn 4---
+---Turn 4.5---
+pass 0
+switch 3
+poke 1 level: 48
+poke 1 HP: 145
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 2, 'def': 0, 'spa': 0, 'spd': -2, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 50
+poke 2 HP: 0
+[(25036.310176125247, (switch action))]
+rhydon switches out for nidoking
+---End of Turn 4.5---
+---Turn 5---
+move 1
+move 3
+poke 1 level: 48
+poke 1 HP: 145
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 2, 'def': 0, 'spa': 0, 'spd': -2, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 141
+[(115973.92704737154, (move action)), (116001.28910891693, (move action))]
+infernape did 0 damage to nidoking
+infernape used bulkup
+modifier crit: 1
+modifier rng: 0.9883248143508375
+modifier stab: 0.9883248143508375
+target types: ['Fire', 'Fighting']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9883248143508375
+modifier weather: 0.9883248143508375
+modifier burn: 0.9883248143508375
+modifier minimize: 0.9883248143508375
+modifier abilities: 0.9883248143508375
+modifier items: 0.9883248143508375
+nidoking did 11 damage to infernape
+modifier crit: 1
+modifier rng: 0.8646781877193473
+modifier stab: 0.8646781877193473
+target types: ['Fire', 'Fighting']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.8646781877193473
+modifier weather: 0.8646781877193473
+modifier burn: 0.8646781877193473
+modifier minimize: 0.8646781877193473
+modifier abilities: 0.8646781877193473
+modifier items: 0.8646781877193473
+nidoking did 10 damage to infernape
+nidoking used doublekick
+---End of Turn 5---
+---Turn 6---
+move 1
+move 3
+poke 1 level: 48
+poke 1 HP: 124
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 3, 'def': 1, 'spa': 0, 'spd': -2, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 141
+[(115973.55254993463, (move action)), (116001.54475625284, (move action))]
+infernape did 0 damage to nidoking
+infernape used bulkup
+modifier crit: 1
+modifier rng: 0.963927629855737
+modifier stab: 0.963927629855737
+target types: ['Fire', 'Fighting']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.963927629855737
+modifier weather: 0.963927629855737
+modifier burn: 0.963927629855737
+modifier minimize: 0.963927629855737
+modifier abilities: 0.963927629855737
+modifier items: 0.963927629855737
+nidoking did 8 damage to infernape
+modifier crit: 1
+modifier rng: 0.9295326231450693
+modifier stab: 0.9295326231450693
+target types: ['Fire', 'Fighting']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9295326231450693
+modifier weather: 0.9295326231450693
+modifier burn: 0.9295326231450693
+modifier minimize: 0.9295326231450693
+modifier abilities: 0.9295326231450693
+modifier items: 0.9295326231450693
+nidoking did 8 damage to infernape
+nidoking used doublekick
+---End of Turn 6---
+---Turn 7---
+move 0
+move 3
+poke 1 level: 48
+poke 1 HP: 108
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 4, 'def': 2, 'spa': 0, 'spd': -2, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 141
+[(115973.62045010863, (move action)), (116001.54851540961, (move action))]
+modifier crit: 1
+modifier rng: 0.9090719201965289
+modifier stab: 1.3636078802947935
+target types: ['Poison', 'Ground']
+type_effect: 0.5
+type_modifier: 0.5
+type_effect: 1
+type_modifier: 0.5
+modifier type: 0.6818039401473968
+modifier weather: 0.6818039401473968
+modifier burn: 0.6818039401473968
+modifier minimize: 0.6818039401473968
+modifier abilities: 0.6818039401473968
+modifier items: 0.6818039401473968
+infernape did 140 damage to nidoking
+infernape used closecombat
+modifier crit: 1
+modifier rng: 0.9235635303239781
+modifier stab: 0.9235635303239781
+target types: ['Fire', 'Fighting']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9235635303239781
+modifier weather: 0.9235635303239781
+modifier burn: 0.9235635303239781
+modifier minimize: 0.9235635303239781
+modifier abilities: 0.9235635303239781
+modifier items: 0.9235635303239781
+nidoking did 11 damage to infernape
+modifier crit: 1
+modifier rng: 0.9933345657220639
+modifier stab: 0.9933345657220639
+target types: ['Fire', 'Fighting']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9933345657220639
+modifier weather: 0.9933345657220639
+modifier burn: 0.9933345657220639
+modifier minimize: 0.9933345657220639
+modifier abilities: 0.9933345657220639
+modifier items: 0.9933345657220639
+nidoking did 11 damage to infernape
+nidoking used doublekick
+---End of Turn 7---
+---Turn 8---
+move 1
+move 1
+poke 1 level: 48
+poke 1 HP: 86
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 4, 'def': 1, 'spa': 0, 'spd': -3, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 1
+[(115973.31007113626, (move action)), (116001.52924356784, (move action))]
+infernape did 0 damage to nidoking
+infernape used bulkup
+modifier crit: 1
+modifier rng: 0.8794471754817901
+modifier stab: 1.3191707632226852
+target types: ['Fire', 'Fighting']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 1.3191707632226852
+modifier weather: 1.3191707632226852
+modifier burn: 1.3191707632226852
+modifier minimize: 1.3191707632226852
+modifier abilities: 1.3191707632226852
+modifier items: 1.3191707632226852
+nidoking did 6 damage to infernape
+nidoking used poisonsting
+---End of Turn 8---
+---Turn 9---
+move 0
+move 3
+poke 1 level: 48
+poke 1 HP: 80
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 5, 'def': 2, 'spa': 0, 'spd': -3, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 1
+[(115973.9236672936, (move action)), (116001.86485020294, (move action))]
+modifier crit: 1
+modifier rng: 0.888336847475549
+modifier stab: 1.3325052712133234
+target types: ['Poison', 'Ground']
+type_effect: 0.5
+type_modifier: 0.5
+type_effect: 1
+type_modifier: 0.5
+modifier type: 0.6662526356066617
+modifier weather: 0.6662526356066617
+modifier burn: 0.6662526356066617
+modifier minimize: 0.6662526356066617
+modifier abilities: 0.6662526356066617
+modifier items: 0.6662526356066617
+infernape did 159 damage to nidoking
+nidoking fainted
+infernape used closecombat
+---End of Turn 9---
+---Turn 9.5---
+pass 0
+switch 2
+poke 1 level: 48
+poke 1 HP: 80
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 5, 'def': 1, 'spa': 0, 'spd': -4, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 45
+poke 2 HP: 0
+[(25001.14599027844, (switch action))]
+nidoking switches out for nidoqueen
+---End of Turn 9.5---
+---Turn 10---
+move 2
+move 2
+poke 1 level: 48
+poke 1 HP: 80
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 5, 'def': 1, 'spa': 0, 'spd': -4, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 44
+poke 2 HP: 146
+[(115973.05988359898, (move action)), (116011.86159303937, (move action))]
+modifier crit: 1
+modifier rng: 0.9874263719206887
+modifier stab: 0.9874263719206887
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9874263719206887
+modifier weather: 0.9874263719206887
+modifier burn: 0.9874263719206887
+modifier minimize: 0.9874263719206887
+modifier abilities: 0.9874263719206887
+modifier items: 0.9874263719206887
+infernape did 34 damage to nidoqueen
+modifier crit: 1
+modifier rng: 0.9045233972699551
+modifier stab: 0.9045233972699551
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9045233972699551
+modifier weather: 0.9045233972699551
+modifier burn: 0.9045233972699551
+modifier minimize: 0.9045233972699551
+modifier abilities: 0.9045233972699551
+modifier items: 0.9045233972699551
+infernape did 31 damage to nidoqueen
+modifier crit: 1
+modifier rng: 0.9941327769907253
+modifier stab: 0.9941327769907253
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9941327769907253
+modifier weather: 0.9941327769907253
+modifier burn: 0.9941327769907253
+modifier minimize: 0.9941327769907253
+modifier abilities: 0.9941327769907253
+modifier items: 0.9941327769907253
+infernape did 34 damage to nidoqueen
+modifier crit: 1
+modifier rng: 0.9887760153274128
+modifier stab: 0.9887760153274128
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9887760153274128
+modifier weather: 0.9887760153274128
+modifier burn: 0.9887760153274128
+modifier minimize: 0.9887760153274128
+modifier abilities: 0.9887760153274128
+modifier items: 0.9887760153274128
+infernape did 34 damage to nidoqueen
+modifier crit: 1
+modifier rng: 0.8632498764540601
+modifier stab: 0.8632498764540601
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.8632498764540601
+modifier weather: 0.8632498764540601
+modifier burn: 0.8632498764540601
+modifier minimize: 0.8632498764540601
+modifier abilities: 0.8632498764540601
+modifier items: 0.8632498764540601
+infernape did 30 damage to nidoqueen
+nidoqueen fainted
+infernape used furyswipes
+---End of Turn 10---
+---Turn 10.5---
+pass 0
+switch 1
+poke 1 level: 48
+poke 1 HP: 80
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 5, 'def': 1, 'spa': 0, 'spd': -4, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 44
+poke 2 HP: 0
+[(25011.289213096865, (switch action))]
+nidoqueen switches out for dugtrio
+---End of Turn 10.5---
+---Turn 11---
+move 0
+move 2
+poke 1 level: 48
+poke 1 HP: 80
+poke 1 Stats(hp=145, attack=119, defense=88, specialattack=119, specialdefense=88, speed=123)
+poke 1  Boosts:{'atk': 5, 'def': 1, 'spa': 0, 'spd': -4, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 94
+[(115973.07775200019, (move action)), (115978.00762060306, (move action))]
+modifier crit: 1
+modifier rng: 0.9448799616033242
+modifier stab: 1.4173199424049863
+target types: ['Ground']
+type_effect: 1
+type_modifier: 1
+modifier type: 1.4173199424049863
+modifier weather: 1.4173199424049863
+modifier burn: 1.4173199424049863
+modifier minimize: 1.4173199424049863
+modifier abilities: 1.4173199424049863
+modifier items: 1.4173199424049863
+infernape did 497 damage to dugtrio
+dugtrio fainted
+infernape used closecombat
+p1 won
+---End of Turn 11---

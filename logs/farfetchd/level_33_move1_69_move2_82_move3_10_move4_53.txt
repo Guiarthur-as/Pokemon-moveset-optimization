@@ -1,0 +1,760 @@
+---Turn 1---
+move 2
+move 3
+poke 1 level: 33
+poke 1 HP: 87
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 132
+[(116042.61873375127, (move action)), (116057.74355806092, (move action))]
+farfetchd did 0 damage to rhyhorn
+farfetchd used curse
+modifier crit: 1
+modifier rng: 0.8905194761029476
+modifier stab: 1.3357792141544214
+target types: ['Normal', 'Flying']
+type_effect: 1
+type_modifier: 1
+type_effect: 0
+type_modifier: 0
+modifier type: 0.0
+modifier weather: 0.0
+modifier burn: 0.0
+modifier minimize: 0.0
+modifier abilities: 0.0
+modifier items: 0.0
+rhyhorn did 0 damage to farfetchd
+rhyhorn used earthquake
+---End of Turn 1---
+---Turn 2---
+move 2
+move 1
+poke 1 level: 33
+poke 1 HP: 87
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 1, 'def': 1, 'spa': 0, 'spd': 0, 'spe': -1, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 132
+[(116057.0310798352, (move action)), (116060.7102125504, (move action))]
+rhyhorn did 0 damage to farfetchd
+rhyhorn used scaryface
+farfetchd did 0 damage to rhyhorn
+farfetchd used curse
+---End of Turn 2---
+---Turn 3---
+move 1
+move 0
+poke 1 level: 33
+poke 1 HP: 87
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 2, 'def': 2, 'spa': 0, 'spd': 0, 'spe': -4, 'accuracy': 0, 'evasion': 0}
+poke 2 level: 42
+poke 2 HP: 132
+[(116057.05420279165, (move action)), (116078.61931613034, (move action))]
+rhyhorn used rockblast and missed
+farfetchd did 0 damage to rhyhorn
+farfetchd used doubleteam
+---End of Turn 3---
+---Turn 4---
+move 0
+move 3
+poke 1 level: 33
+poke 1 HP: 87
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 2, 'def': 2, 'spa': 0, 'spd': 0, 'spe': -4, 'accuracy': 0, 'evasion': 1}
+poke 2 level: 42
+poke 2 HP: 132
+[(116057.92226444688, (move action)), (116078.85485839317, (move action))]
+modifier crit: 1
+modifier rng: 0.852220160794815
+modifier stab: 1.2783302411922226
+target types: ['Normal', 'Flying']
+type_effect: 1
+type_modifier: 1
+type_effect: 0
+type_modifier: 0
+modifier type: 0.0
+modifier weather: 0.0
+modifier burn: 0.0
+modifier minimize: 0.0
+modifier abilities: 0.0
+modifier items: 0.0
+rhyhorn did 0 damage to farfetchd
+rhyhorn used earthquake
+modifier crit: 1
+modifier rng: 0.8797380688712283
+modifier stab: 0.8797380688712283
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.8797380688712283
+modifier weather: 0.8797380688712283
+modifier burn: 0.8797380688712283
+modifier minimize: 0.8797380688712283
+modifier abilities: 0.8797380688712283
+modifier items: 0.8797380688712283
+farfetchd did 33 damage to rhyhorn
+farfetchd used throatchop
+---End of Turn 4---
+---Turn 5---
+move 1
+move 3
+poke 1 level: 33
+poke 1 HP: 87
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 2, 'def': 2, 'spa': 0, 'spd': 0, 'spe': -4, 'accuracy': 0, 'evasion': 1}
+poke 2 level: 42
+poke 2 HP: 99
+[(116057.40343811711, (move action)), (116078.6841122425, (move action))]
+rhyhorn used earthquake and missed
+farfetchd did 0 damage to rhyhorn
+farfetchd used doubleteam
+---End of Turn 5---
+---Turn 6---
+move 3
+move 1
+poke 1 level: 33
+poke 1 HP: 87
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 2, 'def': 2, 'spa': 0, 'spd': 0, 'spe': -4, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 42
+poke 2 HP: 99
+[(90079.10244401991, (move action)), (116057.66495120189, (move action))]
+modifier crit: 1
+modifier rng: 0.9128003426891649
+modifier stab: 1.3692005140337473
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 0.5
+type_modifier: 0.5
+modifier type: 0.6846002570168737
+modifier weather: 0.6846002570168737
+modifier burn: 0.6846002570168737
+modifier minimize: 0.6846002570168737
+modifier abilities: 0.6846002570168737
+modifier items: 0.6846002570168737
+farfetchd did 10 damage to rhyhorn
+farfetchd used feint
+rhyhorn did 0 damage to farfetchd
+rhyhorn used scaryface
+---End of Turn 6---
+---Turn 7---
+move 2
+move 1
+poke 1 level: 33
+poke 1 HP: 87
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 2, 'def': 2, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 42
+poke 2 HP: 89
+[(116057.59154541929, (move action)), (116082.54791412831, (move action))]
+rhyhorn did 0 damage to farfetchd
+rhyhorn used scaryface
+farfetchd did 0 damage to rhyhorn
+farfetchd used curse
+---End of Turn 7---
+---Turn 8---
+move 2
+move 2
+poke 1 level: 33
+poke 1 HP: 87
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 3, 'def': 3, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 42
+poke 2 HP: 89
+[(116057.2001778292, (move action)), (116083.23430319059, (move action))]
+modifier crit: 1
+modifier rng: 0.9847898340745885
+modifier stab: 0.9847898340745885
+target types: ['Normal', 'Flying']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9847898340745885
+modifier weather: 0.9847898340745885
+modifier burn: 0.9847898340745885
+modifier minimize: 0.9847898340745885
+modifier abilities: 0.9847898340745885
+modifier items: 0.9847898340745885
+rhyhorn did 23 damage to farfetchd
+rhyhorn used takedown
+farfetchd did 0 damage to rhyhorn
+farfetchd used curse
+---End of Turn 8---
+---Turn 9---
+move 0
+move 0
+poke 1 level: 33
+poke 1 HP: 64
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 4, 'def': 4, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 42
+poke 2 HP: 84
+[(116057.59647275397, (move action)), (116082.52254863949, (move action))]
+rhyhorn used rockblast and missed
+modifier crit: 1.5
+modifier rng: 1.3358043928726313
+modifier stab: 1.3358043928726313
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 1.3358043928726313
+modifier weather: 1.3358043928726313
+modifier burn: 1.3358043928726313
+modifier minimize: 1.3358043928726313
+modifier abilities: 1.3358043928726313
+modifier items: 1.3358043928726313
+farfetchd did 74 damage to rhyhorn
+farfetchd used throatchop
+---End of Turn 9---
+---Turn 10---
+move 2
+move 1
+poke 1 level: 33
+poke 1 HP: 64
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 4, 'def': 4, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 42
+poke 2 HP: 10
+[(116057.61843406004, (move action)), (116083.07267907004, (move action))]
+rhyhorn did 0 damage to farfetchd
+rhyhorn used scaryface
+farfetchd did 0 damage to rhyhorn
+farfetchd used curse
+---End of Turn 10---
+---Turn 11---
+move 2
+move 1
+poke 1 level: 33
+poke 1 HP: 64
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 5, 'def': 5, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 42
+poke 2 HP: 10
+[(116057.88505218657, (move action)), (116082.51059546172, (move action))]
+rhyhorn used scaryface and missed
+farfetchd did 0 damage to rhyhorn
+farfetchd used curse
+---End of Turn 11---
+---Turn 12---
+move 3
+move 3
+poke 1 level: 33
+poke 1 HP: 64
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 42
+poke 2 HP: 10
+[(90083.37966098345, (move action)), (116057.1760962382, (move action))]
+modifier crit: 1
+modifier rng: 0.9706195659771478
+modifier stab: 1.4559293489657217
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 0.5
+type_modifier: 0.5
+modifier type: 0.7279646744828608
+modifier weather: 0.7279646744828608
+modifier burn: 0.7279646744828608
+modifier minimize: 0.7279646744828608
+modifier abilities: 0.7279646744828608
+modifier items: 0.7279646744828608
+farfetchd did 21 damage to rhyhorn
+rhyhorn fainted
+farfetchd used feint
+---End of Turn 12---
+---Turn 12.5---
+pass 0
+switch 4
+poke 1 level: 33
+poke 1 HP: 64
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 42
+poke 2 HP: 0
+[(25057.67885208826, (switch action))]
+rhyhorn switches out for rhydon
+---End of Turn 12.5---
+---Turn 13---
+move 1
+move 1
+poke 1 level: 33
+poke 1 HP: 64
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 2}
+poke 2 level: 50
+poke 2 HP: 180
+[(116036.48116137442, (move action)), (116083.38099907247, (move action))]
+rhydon used scaryface and missed
+farfetchd did 0 damage to rhydon
+farfetchd used doubleteam
+---End of Turn 13---
+---Turn 14---
+move 3
+move 3
+poke 1 level: 33
+poke 1 HP: 64
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 3}
+poke 2 level: 50
+poke 2 HP: 180
+[(90082.8234036373, (move action)), (116036.35299946471, (move action))]
+modifier crit: 1
+modifier rng: 0.9559817366272474
+modifier stab: 1.433972604940871
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 0.5
+type_modifier: 0.5
+modifier type: 0.7169863024704355
+modifier weather: 0.7169863024704355
+modifier burn: 0.7169863024704355
+modifier minimize: 0.7169863024704355
+modifier abilities: 0.7169863024704355
+modifier items: 0.7169863024704355
+farfetchd did 15 damage to rhydon
+farfetchd used feint
+modifier crit: 1
+modifier rng: 0.9573566713334648
+modifier stab: 1.4360350070001973
+target types: ['Normal', 'Flying']
+type_effect: 1
+type_modifier: 1
+type_effect: 0
+type_modifier: 0
+modifier type: 0.0
+modifier weather: 0.0
+modifier burn: 0.0
+modifier minimize: 0.0
+modifier abilities: 0.0
+modifier items: 0.0
+rhydon did 0 damage to farfetchd
+rhydon used earthquake
+---End of Turn 14---
+---Turn 15---
+move 1
+move 2
+poke 1 level: 33
+poke 1 HP: 64
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 3}
+poke 2 level: 50
+poke 2 HP: 165
+[(116036.86132977121, (move action)), (116083.21425799669, (move action))]
+modifier crit: 1
+modifier rng: 0.8723471754064417
+modifier stab: 0.8723471754064417
+target types: ['Normal', 'Flying']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.8723471754064417
+modifier weather: 0.8723471754064417
+modifier burn: 0.8723471754064417
+modifier minimize: 0.8723471754064417
+modifier abilities: 0.8723471754064417
+modifier items: 0.8723471754064417
+rhydon did 27 damage to farfetchd
+rhydon used takedown
+farfetchd did 0 damage to rhydon
+farfetchd used doubleteam
+---End of Turn 15---
+---Turn 16---
+move 0
+move 0
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 159
+[(116036.95097723317, (move action)), (116082.93777092516, (move action))]
+rhydon used rockblast and missed
+modifier crit: 1
+modifier rng: 0.9020648133921507
+modifier stab: 0.9020648133921507
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9020648133921507
+modifier weather: 0.9020648133921507
+modifier burn: 0.9020648133921507
+modifier minimize: 0.9020648133921507
+modifier abilities: 0.9020648133921507
+modifier items: 0.9020648133921507
+farfetchd did 46 damage to rhydon
+farfetchd used throatchop
+---End of Turn 16---
+---Turn 17---
+move 0
+move 2
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 113
+[(116036.10958829401, (move action)), (116082.85893901213, (move action))]
+rhydon used takedown and missed
+modifier crit: 1
+modifier rng: 0.9864094853590146
+modifier stab: 0.9864094853590146
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9864094853590146
+modifier weather: 0.9864094853590146
+modifier burn: 0.9864094853590146
+modifier minimize: 0.9864094853590146
+modifier abilities: 0.9864094853590146
+modifier items: 0.9864094853590146
+farfetchd did 51 damage to rhydon
+farfetchd used throatchop
+---End of Turn 17---
+---Turn 18---
+move 2
+move 2
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 62
+[(116036.54850672455, (move action)), (116083.23454605188, (move action))]
+rhydon used takedown and missed
+farfetchd did 0 damage to rhydon
+farfetchd used curse
+---End of Turn 18---
+---Turn 19---
+move 0
+move 3
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 62
+[(116036.50498375778, (move action)), (116083.1577058243, (move action))]
+modifier crit: 1
+modifier rng: 0.8719465950300641
+modifier stab: 1.307919892545096
+target types: ['Normal', 'Flying']
+type_effect: 1
+type_modifier: 1
+type_effect: 0
+type_modifier: 0
+modifier type: 0.0
+modifier weather: 0.0
+modifier burn: 0.0
+modifier minimize: 0.0
+modifier abilities: 0.0
+modifier items: 0.0
+rhydon did 0 damage to farfetchd
+rhydon used earthquake
+modifier crit: 1
+modifier rng: 0.92293881383201
+modifier stab: 0.92293881383201
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.92293881383201
+modifier weather: 0.92293881383201
+modifier burn: 0.92293881383201
+modifier minimize: 0.92293881383201
+modifier abilities: 0.92293881383201
+modifier items: 0.92293881383201
+farfetchd did 47 damage to rhydon
+farfetchd used throatchop
+---End of Turn 19---
+---Turn 20---
+move 3
+move 0
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 15
+[(90082.85532565638, (move action)), (116036.51106655646, (move action))]
+modifier crit: 1
+modifier rng: 0.9429500906824851
+modifier stab: 1.4144251360237277
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 0.5
+type_modifier: 0.5
+modifier type: 0.7072125680118638
+modifier weather: 0.7072125680118638
+modifier burn: 0.7072125680118638
+modifier minimize: 0.7072125680118638
+modifier abilities: 0.7072125680118638
+modifier items: 0.7072125680118638
+farfetchd did 14 damage to rhydon
+farfetchd used feint
+rhydon used rockblast and missed
+---End of Turn 20---
+---Turn 21---
+move 2
+move 0
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 1
+[(116036.54638974769, (move action)), (116083.01809069725, (move action))]
+rhydon used rockblast and missed
+farfetchd did 0 damage to rhydon
+farfetchd used curse
+---End of Turn 21---
+---Turn 22---
+move 2
+move 1
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 1
+[(116036.1304753191, (move action)), (116083.02129063489, (move action))]
+rhydon used scaryface and missed
+farfetchd did 0 damage to rhydon
+farfetchd used curse
+---End of Turn 22---
+---Turn 23---
+move 3
+move 0
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 1
+[(90082.50758301774, (move action)), (116036.65354347107, (move action))]
+modifier crit: 1
+modifier rng: 0.9639463039172681
+modifier stab: 1.445919455875902
+target types: ['Ground', 'Rock']
+type_effect: 1
+type_modifier: 1
+type_effect: 0.5
+type_modifier: 0.5
+modifier type: 0.722959727937951
+modifier weather: 0.722959727937951
+modifier burn: 0.722959727937951
+modifier minimize: 0.722959727937951
+modifier abilities: 0.722959727937951
+modifier items: 0.722959727937951
+farfetchd did 15 damage to rhydon
+rhydon fainted
+farfetchd used feint
+---End of Turn 23---
+---Turn 23.5---
+pass 0
+switch 3
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 50
+poke 2 HP: 0
+[(25036.719410581252, (switch action))]
+rhydon switches out for nidoking
+---End of Turn 23.5---
+---Turn 24---
+move 0
+move 1
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 45
+poke 2 HP: 141
+[(116001.27689638667, (move action)), (116082.86997324502, (move action))]
+nidoking used poisonsting and missed
+modifier crit: 1.5
+modifier rng: 1.3660139224966628
+modifier stab: 1.3660139224966628
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 1.3660139224966628
+modifier weather: 1.3660139224966628
+modifier burn: 1.3660139224966628
+modifier minimize: 1.3660139224966628
+modifier abilities: 1.3660139224966628
+modifier items: 1.3660139224966628
+farfetchd did 112 damage to nidoking
+farfetchd used throatchop
+---End of Turn 24---
+---Turn 25---
+move 3
+move 3
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 45
+poke 2 HP: 29
+[(90082.96479785637, (move action)), (116001.55077779126, (move action))]
+modifier crit: 1
+modifier rng: 0.9707435750931016
+modifier stab: 1.4561153626396524
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 1.4561153626396524
+modifier weather: 1.4561153626396524
+modifier burn: 1.4561153626396524
+modifier minimize: 1.4561153626396524
+modifier abilities: 1.4561153626396524
+modifier items: 1.4561153626396524
+farfetchd did 46 damage to nidoking
+nidoking fainted
+farfetchd used feint
+---End of Turn 25---
+---Turn 25.5---
+pass 0
+switch 2
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 45
+poke 2 HP: 0
+[(25001.157083687714, (switch action))]
+nidoking switches out for nidoqueen
+---End of Turn 25.5---
+---Turn 26---
+move 0
+move 3
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 44
+poke 2 HP: 146
+[(116011.59316478657, (move action)), (116083.06102971292, (move action))]
+nidoqueen used doublekick and missed
+modifier crit: 1
+modifier rng: 0.9774218820826368
+modifier stab: 0.9774218820826368
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9774218820826368
+modifier weather: 0.9774218820826368
+modifier burn: 0.9774218820826368
+modifier minimize: 0.9774218820826368
+modifier abilities: 0.9774218820826368
+modifier items: 0.9774218820826368
+farfetchd did 74 damage to nidoqueen
+farfetchd used throatchop
+---End of Turn 26---
+---Turn 27---
+move 0
+move 0
+poke 1 level: 33
+poke 1 HP: 37
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 44
+poke 2 HP: 72
+[(116011.47135120594, (move action)), (116083.37963569598, (move action))]
+modifier crit: 1
+modifier rng: 0.8699898637087198
+modifier stab: 0.8699898637087198
+target types: ['Normal', 'Flying']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.8699898637087198
+modifier weather: 0.8699898637087198
+modifier burn: 0.8699898637087198
+modifier minimize: 0.8699898637087198
+modifier abilities: 0.8699898637087198
+modifier items: 0.8699898637087198
+nidoqueen did 14 damage to farfetchd
+nidoqueen used bodyslam
+modifier crit: 1
+modifier rng: 0.99847338372104
+modifier stab: 0.99847338372104
+target types: ['Poison', 'Ground']
+type_effect: 1
+type_modifier: 1
+type_effect: 1
+type_modifier: 1
+modifier type: 0.99847338372104
+modifier weather: 0.99847338372104
+modifier burn: 0.99847338372104
+modifier minimize: 0.99847338372104
+modifier abilities: 0.99847338372104
+modifier items: 0.99847338372104
+farfetchd did 75 damage to nidoqueen
+nidoqueen fainted
+farfetchd used throatchop
+---End of Turn 27---
+---Turn 27.5---
+pass 0
+switch 1
+poke 1 level: 33
+poke 1 HP: 23
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 44
+poke 2 HP: 0
+[(25011.06475594006, (switch action))]
+nidoqueen switches out for dugtrio
+---End of Turn 27.5---
+---Turn 28---
+move 0
+move 2
+poke 1 level: 33
+poke 1 HP: 23
+poke 1 Stats(hp=87, attack=74, defense=51, specialattack=53, specialdefense=56, speed=54)
+poke 1  Boosts:{'atk': 6, 'def': 6, 'spa': 0, 'spd': 0, 'spe': -6, 'accuracy': 0, 'evasion': 4}
+poke 2 level: 42
+poke 2 HP: 94
+[(115978.31185501248, (move action)), (116083.1687070612, (move action))]
+dugtrio used mudslap and missed
+modifier crit: 1
+modifier rng: 0.9505647010292055
+modifier stab: 0.9505647010292055
+target types: ['Ground']
+type_effect: 1
+type_modifier: 1
+modifier type: 0.9505647010292055
+modifier weather: 0.9505647010292055
+modifier burn: 0.9505647010292055
+modifier minimize: 0.9505647010292055
+modifier abilities: 0.9505647010292055
+modifier items: 0.9505647010292055
+farfetchd did 114 damage to dugtrio
+dugtrio fainted
+farfetchd used throatchop
+p1 won
+---End of Turn 28---
